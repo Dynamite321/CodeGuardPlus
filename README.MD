@@ -1,4 +1,5 @@
 # Constrained Decoding for Secure Code Generation
+We propose a test suite CodeGuard+ to evaluate both security and correctness of Code LLMs. We also propose to use constrained decoding techniques to make Code LLMs to generate secure and correct code. More details can be found in the [paper](https://arxiv.org/abs/2405.00218).
 
 ## Directory Structure
 The directory structure of this repository is as follows:

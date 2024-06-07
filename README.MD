@@ -16,7 +16,7 @@ The directory structure of this repository is as follows:
 ```
 
 ## Test suite
-Our test suite CodeGuard+ is adapted from [this paper](https://arxiv.org/abs/2108.09293) and [this paper](https://dl.acm.org/doi/abs/10.1145/3549035.3561184). It now includes 91 prompts covering 34 CWEs, along with corresponding unit tests and CodeQL queries. You can find prompts and CodeQL queries in `prompts` and unit_tests in `unit_tests`.
+Our test suite CodeGuard+ is adapted from [Copilot Dataset](https://arxiv.org/abs/2108.09293) and [SecurityEval](https://dl.acm.org/doi/abs/10.1145/3549035.3561184). It now includes 91 prompts covering 34 CWEs, along with corresponding unit tests and CodeQL queries. You can find prompts and CodeQL queries in `prompts` and unit_tests in `unit_tests`.
 
 ## Run unit tests
 Here is an example of how to run unit tests. To run the unit test for the completed programs of prompt CWE-020 1-py, the following commands are needed:

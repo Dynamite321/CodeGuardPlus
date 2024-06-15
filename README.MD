@@ -27,3 +27,13 @@ python functional.py --path {the_path_to_completions}
 
 ## Work in Progress
 This repository is still under construction, thank you for your patience! 
+
+## Citation
+```
+@article{fu2024constrained,
+      title={Constrained Decoding for Secure Code Generation}, 
+      author={Yanjun Fu and Ethan Baker and Yu Ding and Yizheng Chen},
+      year={2024},
+      journal={arXiv preprint arXiv:2405.00218}
+}
+```

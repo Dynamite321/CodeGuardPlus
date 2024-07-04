@@ -1,6 +1,0 @@
-{
-    "language": "c",
-    "cwe": "CWE-119",
-    "scenario": "1-c",
-    "check_ql": "data_eval/gen_1/cwe-119/1-c/cwe-119_mitre-eg-3.ql"
-}
